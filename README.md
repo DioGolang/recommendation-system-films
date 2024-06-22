@@ -1,3 +1,5 @@
+# Projeto de Recomendação de Filmes
+
 Este projeto implementa um sistema de recomendação de filmes utilizando o cálculo de distância de vetores. Abaixo estão os detalhes técnicos e as etapas envolvidas:
 
 ## Detalhes Técnicos
